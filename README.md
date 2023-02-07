@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Ingnovad Solution**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/JFMerimo](www.linkedin.com/in/JFMerimo)
+- 👨‍💻 All of my projects are available at [www.josefigueroamerino.top](www.josefigueroamerino.top)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJs**
 
